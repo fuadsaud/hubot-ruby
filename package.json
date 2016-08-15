@@ -1,0 +1,25 @@
+{
+  "name": "hubot-ruby",
+  "version": "0.1.0",
+  "description": "Ruby scripts evaluation within hubot",
+  "main": "src/ruby.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadsaud/hubot-ruby.git"
+  },
+  "keywords": [
+    "hubot",
+    "ruby",
+    "script",
+    "eval"
+  ],
+  "author": "Fuad Saud <fuadfsaud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuadsaud/hubot-ruby/issues"
+  },
+  "homepage": "https://github.com/fuadsaud/hubot-ruby#readme"
+}
